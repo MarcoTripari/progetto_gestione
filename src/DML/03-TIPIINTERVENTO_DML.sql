@@ -1,0 +1,2 @@
+INSERT INTO TIPIINTERVENTO (CODTI,DESCRTI,NORE)
+VALUES (9658,"Sostituzione pasticche freni","2");
